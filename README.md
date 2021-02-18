@@ -1,3 +1,5 @@
+Hey, I'm a reverse engineer and programmer. I also manage the <a target="_blank" href="https://xlabs.dev">X Labs</a> projects.
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=momo5502&theme=onedark" />
 </p>
