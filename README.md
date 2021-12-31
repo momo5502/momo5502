@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.pinimg.com/474x/88/2a/1d/882a1dd324fb7a2b36c02dcbda16485f.jpg" />
+  <img src="https://static.wikia.nocookie.net/meme/images/7/71/BusinessCat2.jpg/revision/latest?cb=20110826211824" />
 </p>
