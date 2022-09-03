@@ -1,10 +1,10 @@
 <img align="right" width="240" src="https://user-images.githubusercontent.com/4027748/188211109-1365fae6-a43c-409f-b7cf-02ee973fe425.png" />
 <h2>Hi, I'm Maurice</h2>
 <ul>
-<li>🧪 I'm a DRM developer and reverse engineer</li>
-<li>🌀 I mostly do compiler development these days</li>
-<li>🧑‍💻 I developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>
-<li>🌱 I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist reverse engineering</li>
+<li>I'm a DRM developer and reverse engineer</li>
+<li>I mostly do compiler development these days</li>
+<li>I've developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>
+<li>I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist reverse engineering</li>
 <li>🐈 Cats > dogs 🐶</li>
 </ul>
 
