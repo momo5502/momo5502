@@ -4,7 +4,7 @@
 <li>🧪 I'm a DRM developer and reverse engineer</li>
 <li>🌀 I mostly do compiler development these days</li>
 <li>🧑‍💻 I developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>
-<li>🪄 I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist reverse engineering</li>
+<li>🌱 I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist reverse engineering</li>
 <li>🐈 Cats > dogs 🐶</li>
 </ul>
 
