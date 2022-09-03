@@ -1,4 +1,4 @@
-<img align="right" width="250" src="https://user-images.githubusercontent.com/4027748/188211109-1365fae6-a43c-409f-b7cf-02ee973fe425.png" />
+<img align="right" width="240" src="https://user-images.githubusercontent.com/4027748/188211109-1365fae6-a43c-409f-b7cf-02ee973fe425.png" />
 <h2>Hi, I'm Maurice</h2>
 <ul>
 <li>🧪 I'm a DRM developer and reverse engineer</li>
