@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/momo5502" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-support-c96198.svg?logo=github"></a>
-<a href="https://paypal.me/momo5502" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
+<!--<a href="https://paypal.me/momo5502" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>-->
 <a href="https://www.patreon.com/xlabsproject" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
 </p>
