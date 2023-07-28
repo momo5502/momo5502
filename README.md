@@ -2,7 +2,7 @@
 <h2>Hi, I'm Maurice</h2>
 <ul>
 <li>I'm a DRM developer and reverse engineer</li>
-<li>I mostly do compiler development these days</li>
+<li>I mostly do compiler development these days and <a href="https://github.com/llvm/llvm-project/commits?author=momo5502">contribute to LLVM</a> from time to time</li>
 <!--<li>I've developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>-->
 <li>I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist with reverse engineering</li>
 <li>I used to work on BOIII, IW4x, S1x and IW6x under the hood of the XLabs project 😢</li>
