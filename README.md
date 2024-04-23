@@ -6,7 +6,7 @@
 <!--<li>I've developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>-->
 <li>I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist with reverse engineering</li>
 <li>I founded X Labs and used to develop <a href="https://web.archive.org/web/20230515211728/https://github.com/momo5502/boiii">BOIII</a>, <a href="https://web.archive.org/web/20230330225847/https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://web.archive.org/web/20230330232642/https://github.com/XLabsProject/s1x-client">S1x</a> and <a href="https://web.archive.org/web/20230410223427/https://github.com/XLabsProject/iw6x-client">IW6x</a>... <a href="https://twitter.com/XLabsProject/status/1660672124695068675">used to</a>... 😢</li>
-<li>I have <a href="https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/">bypassed</a> Denuvo's protection in Hogwarts legacy</li>
+<li>I have <a href="https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/">bypassed Denuvo</a>'s protection in Hogwarts legacy</li>
 <li>🐈 Cats > dogs 🐶</li>
 </ul>
 <!--
