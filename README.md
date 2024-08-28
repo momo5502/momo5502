@@ -5,5 +5,5 @@
 <li>I mostly do compiler development these days and <a href="https://github.com/llvm/llvm-project/commits?author=momo5502">contribute to LLVM</a> from time to time</li>
 <li>I have developed my own research <a href="https://github.com/momo5502/hypervisor">hypervisor</a></li>
 <li>I have <a href="https://momo5502.com/posts/2024-03-31-bypassing-denuvo-in-hogwarts-legacy/">bypassed Denuvo</a>'s protection in Hogwarts legacy</li>
-<li>I like Cats 🐈</li>
+<li>I like cats 🐈</li>
 </ul>
