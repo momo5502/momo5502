@@ -1,5 +1,4 @@
 <h2>Hi, I'm Maurice</h2>
-<img align="right" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXX1cyH7hHsx3m_nNNk-yKIJQ2HYlMlJ1AQ&s" />
 <ul>
 <li>I work on compilers and <a href="https://github.com/llvm/llvm-project/commits?author=momo5502">contribute to LLVM</a> from time to time (reload if no commits are shown)</li>
 <li>I have developed my own research <a href="https://github.com/momo5502/hypervisor">hypervisor</a></li>
